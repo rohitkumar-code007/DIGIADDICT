@@ -26,3 +26,4 @@ etc/
 *.egg-info/
 build/
 *.csv
+compare_models.py
